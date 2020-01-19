@@ -1,44 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi - thank you for applying to Prospect! And thank you for doing this test.
 
-## Available Scripts
+We'd like to keep this simple. The tasks below should ideally not take you more than 30 minutes.
 
-In the project directory, you can run:
+# ✅ The Project
 
-### `npm start`
+The application enclosed is a simple todo list app.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It has a few basic functionalities -- create task, edit, delete, and mark them as completed.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The application is built using React and Redux.
 
-### `npm test`
+# 📝 The Task
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Your task (pun intended) is to fix a bug and add an enhancement.
 
-### `npm run build`
+- **Bug**: You have to find this one! There is one bug that is impeding the app functionality. You will have to use the application a little bit to find it.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Enhancement**: We would like you add a "created time" and "completed time" indicator for each task. The created time one should show when the task was added. The completed time should show when the task was done (this is only for completed tasks).
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# ⭐️ Extra Details
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+At the bare minimum we'll be evaluating how well you can fix the bug and add the new enhancement.
 
-### `npm run eject`
+However anything extra that you do will give you bonus points. We don't want to share ideas here because this is entirely up to you!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# 🎯 Getting Started and Submission
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get started, hit "fork" in the repl.it editor. This will give you your own privte repl.it space in which you can make changes and test.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Once you are ready to submit, submit the Google Form with your repl.it link and a description of the changes you have made.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# ❓ Help
 
-## Learn More
+If you're stuck or need help, please email aamir@tryprospect.com.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thanks again and all the best!
